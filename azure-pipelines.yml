@@ -10,7 +10,7 @@ pool:
   vmImage: 'Ubuntu-16.04'
 
 steps:
-- script: echo Hello, world!
+- script: echo Hello, wofdf v!
   displayName: 'Run a one-line script'
 
 - script: |
@@ -19,7 +19,6 @@ steps:
   displayName: 'Run a multi-line script'
 
 
--task
   
 
 
